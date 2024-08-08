@@ -1,17 +1,17 @@
-name = "sahabatmediaseluler" # todo
+name = "txt" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "ismail.gretongers.biz.id"
+pattern = "id.gretongers.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.ismail.gretongers.biz.id"
+pattern = "quiz.vidio.com.id.gretongers.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.ismail.gretongers.biz.id"
+pattern = "quiz.int.vidio.com.id.gretongers.biz.id"
 custom_domain = true
 
 [vars]
